@@ -12,7 +12,7 @@ header:
 Sample tryout to see if this works
 
 
-![image](https://github.com/bolimsydneyson/bolimsydneyson.github.io/blob/master/assets/images/dataviz.png)
+![image](https://raw.githubusercontent.com/bolimsydneyson/bolimsydneyson.github.io/master/assets/images/dataviz.png)
 
 ```python
 import pandas as pd
