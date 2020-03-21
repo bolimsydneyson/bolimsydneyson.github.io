@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/columbia_uni.jpg"
+  image: "/assets/images/columbia_uni.jpg"
 ---
 
 Currently I pursue formal training at Columbia University,
