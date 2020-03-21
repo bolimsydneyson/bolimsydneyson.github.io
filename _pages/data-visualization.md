@@ -12,7 +12,7 @@ header:
 Sample tryout to see if this works
 
 
-![image](/assets/images/dataviz_1.png)
+![image](/assets/images/dataviz.png)
 
 ```python
 import pandas as pd
