@@ -9,5 +9,3 @@ header:
 
 # Contextual Differences in Self Rated Health
 ## With East Asia General Social Survey (EASS) 2010 Data
-
- 
