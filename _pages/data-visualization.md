@@ -4,10 +4,11 @@ permalink: /data-visualization/
 title: "Data Visualization Projects"
 author_profile: true
 header:
-  image: "/assets/images/dataviz_bg.PNG"
+  image: "/assets/images/dataviz_bg.jpg"
 ---
 
-# Project 1: Data visualization on
+
+### Project 1: NYPD
 
 Sample tryout to see if this works
 
