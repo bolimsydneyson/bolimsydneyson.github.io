@@ -40,22 +40,7 @@ Student loan debt _is_ increasing; then, do people go broke because of student l
 
 To understand this, I compared the broke and not broke population. The debt amount is average household debt amount for that year, for those who are broke and for those who are not broke.   
 
-This is an interactive plot. Move the cursor on the graph to see more information.
-
-<!DOCTYPE html>
-<html>
-
-<body>
-
-    <p>Content goes here</p>
-
-    <iframe src="https://raw.githubusercontent.com/bolimsydneyson/bolimsydneyson.github.io/master/assets/images/dataviz/std_loans/plot7_interactive.html" 
-                                height="300" width="400">
-    </iframe>
-
-</body>
-
-</html>
+![image](/assets/images/dataviz/std_loans/plot7.png)
 
 Student loan amount is expressed in bar graph and total debt is expressed in line graph. The above visualization shows that for broke people, the student debt amount is actually greater than those who are not broke. Student loan debt plays a big part in them becoming broke. Also, as time pass by, broke people, on average, their student debt amount increases much steeper than those who are not broke.
 
@@ -84,9 +69,9 @@ One important point from the above bar graph is that the richest 10% do not have
 
 The scatter plot shows that those in the highest 10% income percentile usually do not have any student loan debt. The graph also shows that there is no significant relationship with student loan debt amounts and income. The plot, however, displays that those with highest income are not with PhD degrees but actually with Master’s degrees. However, those with PhD generally have more income than other groups. Those who make it over 1 million dollars all have bachelor’s degree or higher education.
 
-This made me wonder, _what's the relationship between income, asset, and education levels?_ Below, I created a scatterplot with linear regression lines to see this relationship. It is also interactive, to see expected values on the regression line.
+This made me wonder, _what's the relationship between income, asset, and education levels?_ Below, I created a scatterplot with linear regression lines to see this relationship.
 
-![image](/assets/images/dataviz/std_loans/plot6_interactive.html)
+![image](/assets/images/dataviz/std_loans/plot6.png)
 
 The relationship between income and asset is expressed through regression line (gam method). The regression line shows that by education level, the relationship between asset and income is different. For those without high school diploma, even though they might have large assets, are unlikely to make a huge income. The line is almost flat. For those with high school diploma, the line is almost linear. For those with some college, the asset - income relationship is logarithmic. For those with bachelor’s degree, the asset - income relationship draws almost linear line. For those with master’s degree, the relationship is logarithmic as well. For those with doctorates degree or more, the line is also almost linear and has steeper slope than those with Bachelor’s or Master’s degrees.
 
