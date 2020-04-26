@@ -1,19 +1,24 @@
 ---
 layout: archive
 permalink: /data-visualization/
-title: "Data Visualization Projects"
+title: "Student Debt Analysis"
 author_profile: true
 header:
   image: "/assets/images/dataviz_bg.jpg"
 ---
 
 
-### Project 1: NYPD
+# Student Debt - Is it a Crisis?
 
-Sample tryout to see if this works
+As phrased by former Presidential Democrat candidates Bernie Sanders and Elizabeth Warren, rising student debt is a big problem in the U.S. Higher education is becoming more expensive - but one might doubt, is it really _that_ alarming? Are returns to education decreasing? Does student debt take a larger portion of total debt?
+
+To understand more about student debt crisis, I used _Survey of Consumer Finances_ (the survey is conducted every three years from 1989, the most recent year is 2016).
 
 
-![image](https://raw.githubusercontent.com/bolimsydneyson/bolimsydneyson.github.io/master/assets/images/dataviz.png)
+#### 1. Proportion of Student Debt to Other Debt
+![image]("/assets/images/dataviz/std_loans/plot1.png")
+
+
 
 ```python
 import pandas as pd
