@@ -16,7 +16,7 @@ To understand more about student debt crisis, I used _Survey of Consumer Finance
 
 
 #### 1. Proportion of Student Debt to Other Debt
-![image]("/assets/images/dataviz/std_loans/plot1.png")
+![image](/assets/images/dataviz/std_loans/plot1.png)
 
 
 
