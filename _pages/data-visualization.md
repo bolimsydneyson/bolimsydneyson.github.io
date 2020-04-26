@@ -84,4 +84,4 @@ All graphs show a positive relationship with asset and income. Asset and income 
 
 Education is indeed becoming more costly (relatively) for people; and the wealthier you are, the better off you are in getting an education without student loan debt. Also, since wealth is tightly related with race in the U.S., race also plays a part in understanding the student loan debt landscape.
 
-Cost to higher education is so relative - those who come from less privileged backgrounds have to risk more to get the same education. Looking at student loan debt crisis in different perspectives helped me understand more about student loan debt problem in the U.S. 
+Cost to higher education is so relative - those who come from less privileged backgrounds have to risk more to get the same education. Looking at student loan debt crisis in different perspectives helped me understand more about student loan debt problem in the U.S.
