@@ -42,8 +42,7 @@ To understand this, I compared the broke and not broke population. The debt amou
 
 This is an interactive plot. Move the cursor on the graph to see more information.
 
-<div>
-https://raw.githubusercontent.com/bolimsydneyson/bolimsydneyson.github.io/master/assets/images/dataviz/std_loans/plot7_interactive.html
+![image](/assets/images/dataviz/std_loans/plot7_interactive.html)
 
 Student loan amount is expressed in bar graph and total debt is expressed in line graph. The above visualization shows that for broke people, the student debt amount is actually greater than those who are not broke. Student loan debt plays a big part in them becoming broke. Also, as time pass by, broke people, on average, their student debt amount increases much steeper than those who are not broke.
 
