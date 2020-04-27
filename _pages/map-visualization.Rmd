@@ -1,9 +1,8 @@
 ---
+layout: archive
+permalink: /map-visualization/
 title: "Map Visualization"
-output:
-  html_document:
-    df_print: paged
-always_allow_html: yes
+author_profile: true
 ---
 
 ```{r setup, include=FALSE}

@@ -6,6 +6,8 @@ main:
     url: /data-visualization/
   - title: "Machine Learning"
     url: /machine-learning/
+  - title: "Map Visualization"
+    url: /map-visualization/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
