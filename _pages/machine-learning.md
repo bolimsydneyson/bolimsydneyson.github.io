@@ -23,7 +23,7 @@ The codes are written in python script in databricks environment. Data is called
 To predict fastest lap speed, using driver information (driver age), circuit information (circuit location; i.e. latitude and longitude), and race information (points earned, rank, position, grid, raceId, number of laps, the driver's rank at that race)
 
 I merged four different datasets using different aliases. Below is a snippet of output data frame.
-![image](/assets/images/ml/finaldf.png)
+![image](/assets/images/ml/finaldf.PNG)
 
 
 #### Step 2: Check Assumptions
