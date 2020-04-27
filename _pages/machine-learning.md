@@ -23,7 +23,7 @@ The codes are written in python script in databricks environment. Data is called
 To predict fastest lap speed, using driver information (driver age), circuit information (circuit location; i.e. latitude and longitude), and race information (points earned, rank, position, grid, raceId, number of laps, the driver's rank at that race)
 
 I merged four different datasets using different aliases. Below is a snippet of output data frame.
-![image](assets/images/ml/finaldf.png)
+![image](/assets/images/ml/finaldf.png)
 
 
 #### Step 2: Check Assumptions
@@ -32,13 +32,13 @@ Two biggest assumptions that need to be satisfied when creating a linear regress
 
 I first plotted histogram of fastest lap speed (dependent variable) to see if the distribution displays a relatively normal distribution.
 
-![image](assets/images/ml/plot1.png)
+![image](/assets/images/ml/plot1.png)
 
 Thankfully, the histogram shows approximate normal distribution.
 
 I also created a correlation plot, colored with a heatmap to see correlation. Choosing independent variables equate to selecting features in a machine learning model. Machine learning algorithm will use these features (or independent variables) to optimize on predicting the outcome (or dependent variable).
 
-![image](assets/images/ml/plot2.png)
+![image](/assets/images/ml/plot2.png)
 
 Linear relationship is not absent in this model - maybe a good linear regression model will work.
 
@@ -71,7 +71,7 @@ Results of the naive model using `ridge` penalization set to alpha level of 0.4 
 ```
 This is the residual plot.
 
-![image](assets/images/ml/plot3.png)
+![image](/assets/images/ml/plot3.png)
 
 Residual plot is scattered and is not orderly. Also, root mean squared error and R-squared value is quite good; maybe changing penalizations could improve the model.
 
